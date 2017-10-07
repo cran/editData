@@ -1,3 +1,11 @@
+# editData 0.1.2
+=================
+(2017-Oct-8)
+
+* Bug fixed
+
+* Add several example applications in "inst" folder
+
 # editData 0.1.1
 ==================
 (2017-Oct-3)

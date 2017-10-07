@@ -30,3 +30,8 @@ knitr::include_graphics("https://raw.githubusercontent.com/cardiomoon/editData/m
 #  require(editData)
 #  result <- editData(mtcars)
 
+## ----eval=FALSE----------------------------------------------------------
+#  shiny::runApp(system.file('example',package='editData'))
+#  shiny::runApp(system.file('multipleData',package='editData'))
+#  shiny::runApp(system.file('multipleFiles',package='editData'))
+
